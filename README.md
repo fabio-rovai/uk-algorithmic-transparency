@@ -1,5 +1,7 @@
 # UK Algorithmic Transparency Corpus
 
+[![Sponsor](https://img.shields.io/github/sponsors/fabio-rovai?label=Sponsor&logo=GitHub%20Sponsors&logoColor=EA4AAA&color=EA4AAA)](https://github.com/sponsors/fabio-rovai)
+
 Every published record under the UK's Algorithmic Transparency Recording
 Standard (ATRS), structured as an open corpus: which public bodies have
 disclosed which algorithmic and AI tools, and when.
@@ -42,3 +44,9 @@ python3 scripts/harvest.py
 Contains public sector information licensed under the Open Government Licence
 v3.0. Independent, self-initiated open research by
 [Tesseract Academy](https://gov.tesseract.academy).
+
+---
+
+## Sponsor
+
+If this work is useful to you, you can support its continued development through [GitHub Sponsors](https://github.com/sponsors/fabio-rovai).
